@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FAQAccordion/static/css/main.e2324e50.css",
+    "main.js": "/FAQAccordion/static/js/main.5ec9c14e.js",
+    "static/js/787.feab25be.chunk.js": "/FAQAccordion/static/js/787.feab25be.chunk.js",
+    "static/media/illustration-woman-online-mobile.svg": "/FAQAccordion/static/media/illustration-woman-online-mobile.fe928f9c476ef6d332672b3ab38268fd.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/FAQAccordion/static/media/illustration-woman-online-desktop.843eb114c7213a596ee246bf87f27008.svg",
+    "static/media/illustration-box-desktop.svg": "/FAQAccordion/static/media/illustration-box-desktop.ec1ba14b853c562a663728483bac4824.svg",
+    "static/media/bg-pattern-desktop.svg": "/FAQAccordion/static/media/bg-pattern-desktop.f51e07a2f52390c60484dd7a5bc7d842.svg",
+    "index.html": "/FAQAccordion/index.html",
+    "static/media/bg-pattern-mobile.svg": "/FAQAccordion/static/media/bg-pattern-mobile.55aee9128a769eedabec262efb8ace48.svg",
+    "static/media/icon-arrow-down.svg": "/FAQAccordion/static/media/icon-arrow-down.852fa301a0e795e07c5966b1c156025f.svg",
+    "main.e2324e50.css.map": "/FAQAccordion/static/css/main.e2324e50.css.map",
+    "main.5ec9c14e.js.map": "/FAQAccordion/static/js/main.5ec9c14e.js.map",
+    "787.feab25be.chunk.js.map": "/FAQAccordion/static/js/787.feab25be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2324e50.css",
+    "static/js/main.5ec9c14e.js"
+  ]
+}
